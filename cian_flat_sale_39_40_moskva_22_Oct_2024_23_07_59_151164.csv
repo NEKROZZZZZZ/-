@@ -1,0 +1,8 @@
+author;author_type;url;location;deal_type;accommodation_type;floor;floors_count;rooms_count;total_meters;price;year_of_construction;object_type;house_material_type;heating_type;finish_type;living_meters;kitchen_meters;phone;district;street;house_number;underground;residential_complex
+Татьяна Иванова;realtor;https://www.cian.ru/sale/flat/307385304/;Москва;sale;flat;14;26;3;65.0;30999000;2022;-1;-1;-1;-1;33 м²;22 м²;+79680124396;Алексеевский;Староалексеевская ;5А;Алексеевская;Лайм
+Romanov Estate;real_estate_agent;https://www.cian.ru/sale/flat/304127212/;Москва;sale;flat;11;49;3;89.97;33285000;2025;-1;-1;-1;Чистовая;70,8 м²;3,6 м²;+79636236030;Савеловский;2-я Хуторская ;34;Дмитровская;SYMPHONY 34
+Homeapp;real_estate_agent;https://www.cian.ru/sale/flat/303029971/;Москва;sale;flat;2;5;4;107.7;34950000;1936;-1;-1;-1;-1;72,9 м²;10,4 м²;+79857048937;Дорогомилово;Студенческая ;35;Студенческая;
+Ксения Шахматова;realtor;https://www.cian.ru/sale/flat/307731707/;Москва;sale;flat;7;8;3;82.0;34900000;1960;-1;-1;-1;-1;-1;12 м²;+79164642528;Алексеевский; Космонавтов;14К1;ВДНХ;
+PEOPLE;real_estate_agent;https://www.cian.ru/sale/flat/307386420/;Москва;sale;flat;40;52;3;78.0;36700000;2020;-1;-1;-1;-1;-1;-1;+79660613040;Раменки;Мичуринский проспект;56;Раменки;Небо — Небоскребы на Мичуринском, 56
+PEOPLE;real_estate_agent;https://www.cian.ru/sale/flat/307385957/;Москва;sale;flat;25;52;3;70.0;36500000;2020;-1;-1;-1;-1;-1;-1;+79660613040;Раменки;Мичуринский проспект;56;Раменки;Небо — Небоскребы на Мичуринском, 56
+Whitewill;real_estate_agent;https://www.cian.ru/sale/flat/305195698/;Москва;sale;flat;5;7;3;130.0;110000000;-1;-1;-1;-1;-1;82 м²;15 м²;+79672093665;Замоскворечье; Малая Ордынка;3;Третьяковская;
