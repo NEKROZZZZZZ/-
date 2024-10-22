@@ -1,0 +1,4 @@
+author;author_type;url;location;deal_type;accommodation_type;floor;floors_count;rooms_count;total_meters;price;year_of_construction;object_type;house_material_type;heating_type;finish_type;living_meters;kitchen_meters;phone;district;street;house_number;underground;residential_complex
+Андрей Давыдов;realtor;https://www.cian.ru/sale/flat/306364845/;Москва;sale;flat;3;11;3;101.0;115000000;2024;-1;-1;-1;Чистовая;-1;25 м²;+79099969399;Дорогомилово;;3к2;Поклонная;Виктори Парк Резиденсез ЖК
+Intermark Real Estate;real_estate_agent;https://www.cian.ru/sale/flat/305461254/;Москва;sale;flat;5;5;4;163.0;120000000;1888;-1;-1;-1;-1;87 м²;20 м²;+79645664024;Тверской;Петровский переулок;5С7;Пушкинская;
+Intermark Real Estate;real_estate_agent;https://www.cian.ru/sale/flat/307549633/;Москва;sale;flat;3;13;3;150.0;125000000;1998;-1;-1;-1;-1;103 м²;16 м²;+79163943419;Пресненский;Большая Грузинская ;19;Баррикадная;

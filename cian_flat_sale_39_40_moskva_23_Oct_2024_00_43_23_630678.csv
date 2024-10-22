@@ -1,0 +1,4 @@
+author;author_type;url;location;deal_type;accommodation_type;floor;floors_count;rooms_count;total_meters;price;year_of_construction;object_type;house_material_type;heating_type;finish_type;living_meters;kitchen_meters;phone;district;street;house_number;underground;residential_complex
+Homeapp;real_estate_agent;https://www.cian.ru/sale/flat/303029971/;Москва;sale;flat;2;5;4;107.7;34950000;1936;-1;-1;-1;-1;72,9 м²;10,4 м²;+79857048937;Дорогомилово;Студенческая ;35;Студенческая;
+Ксения Шахматова;realtor;https://www.cian.ru/sale/flat/307731707/;Москва;sale;flat;7;8;3;82.0;34900000;1960;-1;-1;-1;-1;-1;12 м²;+79164642528;Алексеевский; Космонавтов;14К1;ВДНХ;
+PEOPLE;real_estate_agent;https://www.cian.ru/sale/flat/307386420/;Москва;sale;flat;40;52;3;78.0;36700000;2020;-1;-1;-1;-1;-1;-1;+79660613040;Раменки;Мичуринский проспект;56;Раменки;Небо — Небоскребы на Мичуринском, 56
