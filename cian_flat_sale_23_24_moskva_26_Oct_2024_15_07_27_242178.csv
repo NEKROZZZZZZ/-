@@ -1,0 +1,4 @@
+author;author_type;url;location;deal_type;accommodation_type;floor;floors_count;rooms_count;total_meters;price;year_of_construction;object_type;house_material_type;heating_type;finish_type;living_meters;kitchen_meters;phone;district;street;house_number;underground;residential_complex
+Виталий Ключников;realtor;https://www.cian.ru/sale/flat/272669312/;Москва;sale;flat;3;25;5;125.4;37500000;2009;-1;-1;-1;-1;62,8 м²;24,3 м²;+79101379056;Тропарево-Никулино; Покрышкина;3;Юго-Западная;
+КоридорЪ;real_estate_agent;https://www.cian.ru/sale/flat/303924262/;Москва;sale;flat;5;17;5;113.5;38000000;1999;-1;-1;-1;-1;85,6 м²;19,5 м²;+79160104348;Филевский парк;Филевский бульвар;35;Фили;
+Анна Кубик;realtor;https://www.cian.ru/sale/flat/303640897/;Москва;sale;flat;1;12;5;110.0;39000000;1981;-1;-1;-1;-1;70 м²;35 м²;+79153145806;Раменки; Довженко;12К1;Минская;

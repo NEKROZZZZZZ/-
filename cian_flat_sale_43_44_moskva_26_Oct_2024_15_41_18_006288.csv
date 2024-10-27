@@ -1,0 +1,4 @@
+author;author_type;url;location;deal_type;accommodation_type;floor;floors_count;rooms_count;total_meters;price;year_of_construction;object_type;house_material_type;heating_type;finish_type;living_meters;kitchen_meters;phone;district;street;house_number;underground;residential_complex
+MHEstate - Элитная недвижимость;real_estate_agent;https://www.cian.ru/sale/flat/305367069/;Москва;sale;flat;4;7;5;252.1;486000000;2004;-1;-1;-1;-1;96 м²;60 м²;+79651281533;Хамовники;Большой Левшинский переулок;11;Смоленская;Дворянское гнездо
+TimeProperty;real_estate_agent;https://www.cian.ru/sale/flat/294753061/;Москва;sale;flat;4;7;5;252.3;486000000;2003;-1;-1;-1;-1;-1;-1;+79623620296;Хамовники;Большой Левшинский переулок;11;Смоленская;Дворянское гнездо
+PANDA ESTATE;real_estate_agent;https://www.cian.ru/sale/flat/306280747/;Москва;sale;flat;5;7;5;250.0;520000000;-1;-1;-1;-1;-1;-1;15 м²;+79099984164;Арбат;Поварская ;20;Арбатская;
