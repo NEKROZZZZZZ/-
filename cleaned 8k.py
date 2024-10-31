@@ -84,3 +84,7 @@ sns.despine(left=True, bottom=True)
 print(".")
 
 plt.show()
+plt.figure(figsize=(8,4))
+sns.heatmap(df.corr(numeric_only=True), cmap='crest', annot=True, vmin=-1, vmax=1)
+plt.xticks(rotation=30, ha="right")
+plt.show()
